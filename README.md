@@ -7,8 +7,8 @@
 - 💡 Reflexões sobre o processo de design de jogos e as lições valiosas que aprendo ao longo do caminho.
 Sinta-se à vontade para explorar e acompanhar meu progresso. Estou aberto a feedback e sugestões! Vamos juntos nessa aventura!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Sleap&show_icons=true&theme=dark).
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Sleap&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Marte&show_icons=true&theme=dark).
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Marte&layout=compact&theme=dark)
 
 <div> 
   <a href="https://asleap.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
