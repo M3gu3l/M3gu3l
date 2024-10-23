@@ -7,15 +7,14 @@
 - 💡 Reflexões sobre o processo de design de jogos e as lições valiosas que aprendo ao longo do caminho.
 Sinta-se à vontade para explorar e acompanhar meu progresso. Estou aberto a feedback e sugestões! Vamos juntos nessa aventura!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3gu3l&show_icons=true&theme=dark).
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3gu3l&layout=compact&theme=dark)
+# 📊 GitHub Status:
+![](https://github-readme-stats.vercel.app/api?username=M3gu3l&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=M3gu3l&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M3gu3l&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=M3gu3l&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <div> 
-  <a href="https://asleap.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
+  <a href="https://0-marte-0.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 </div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
