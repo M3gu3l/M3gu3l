@@ -14,5 +14,5 @@ Sinta-se à vontade para explorar e acompanhar meu progresso. Estou aberto a fee
 
 ---
 [![](https://visitcount.itsvg.in/api?id=M3gu3l&icon=5&color=1)](https://visitcount.itsvg.in)
-<a href="https://0-marte-0.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
+<a href="https://m3gu3l.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 
