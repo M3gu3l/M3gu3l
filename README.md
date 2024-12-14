@@ -14,3 +14,4 @@ Sinta-se à vontade para explorar e acompanhar meu progresso. Estou aberto a fee
 
 ---
 [![](https://visitcount.itsvg.in/api?id=0Marte0&icon=5&color=1)](https://visitcount.itsvg.in)
+![Minha linguagem é Python](https://img.shields.io/badge/Linguagem-Python-blue)
