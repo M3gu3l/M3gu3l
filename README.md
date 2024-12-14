@@ -9,7 +9,7 @@ Sinta-se à vontade para explorar e acompanhar meu progresso. Estou aberto a fee
 
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=0Marte0&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=OMarteOl&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0Marte0l&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0Marte0&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
