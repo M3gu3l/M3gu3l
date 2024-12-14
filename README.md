@@ -8,9 +8,9 @@
 Sinta-se à vontade para explorar e acompanhar meu progresso. Estou aberto a feedback e sugestões! Vamos juntos nessa aventura!
 
 # 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=M3gu3l&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=M3gu3l&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M3gu3l&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=0Marte0&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=OMarteOl&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0Marte0&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=M3gu3l&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=0Marte0&icon=5&color=1)](https://visitcount.itsvg.in)
